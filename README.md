@@ -4,8 +4,8 @@ Sou natural de Fortaleza (CE), moro atualmente no Rio de Janeiro e gosto de expl
 
 
 <h2 align="left">🎓 Formação | Education </h2>
-- Graduação em Matemática da Tecnologia e Inovação — <a href="https://impatech.edu.br/">IMPA Tech</a> </br>
-<em> Bachelor’s degree in Mathematics for Technology and Innovation </em> — <a href="https://impatech.edu.br/?lang=en">IMPA Tech</a>
+- Graduação em Matemática da Tecnologia e Inovação — <a href="https://impatech.edu.br/">IMPA Tech</a> (2024-2028)</br>
+<em> Bachelor’s degree in Mathematics for Technology and Innovation </em> — <a href="https://impatech.edu.br/?lang=en">IMPA Tech</a> (2024-2028)
 
 <h2 align="left">💻 Interesses | Interests </h2>
 - Programação </br>
