@@ -19,7 +19,8 @@ Sou natural de Fortaleza (CE) e hoje moro no Rio de Janeiro (RJ). Vejo a tecnolo
     - Python, SQL
     <h3 align="left"> Ferramentas | Tools </h3>
     - GitHub </br>
-    - VS Code
+    - VS Code </br>
+    - LaTeX
     <h3 align="left"> Outros | Other </h3>
     - Arduino
 
@@ -31,8 +32,6 @@ Sou natural de Fortaleza (CE) e hoje moro no Rio de Janeiro (RJ). Vejo a tecnolo
 <em> (more projects coming soon 👀) </em>
 
 <h2 align="left">📚 Atualmente aprendendo | Currently Learning </h2>
-- Banco de dados </br>
-<em> Database </em> </br>
 - Inglês </br>
 <em> English </em>
 
