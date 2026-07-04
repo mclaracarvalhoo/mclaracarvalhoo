@@ -36,9 +36,7 @@ Sou cearense morando no Rio de Janeiro (RJ). Vejo a tecnologia não apenas como 
 <h2 align="left">📚 Atualmente aprendendo | Currently Learning </h2>
 - Inglês </br>
 <em> English </em> </br>
-- Linux </br>
-- Desenvolvimento Web (JavaScript, HTML e CSS)</br>
-<em> Web Development </em>
+- Python </br>
 
 <h2 align="left">📫 Contato | Contact </h2>
 - GitHub: @mclaracarvalhoo </br>
