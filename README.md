@@ -19,6 +19,7 @@ Sou cearense morando no Rio de Janeiro (RJ). Vejo a tecnologia não apenas como 
 <h2 align="left">🛠️ Tecnologias | Tech Stack </h2>
     <h3 align="left"> Linguagens | Languages </h3>
     - Python, SQL
+    - JavaScript
     <h3 align="left"> Ferramentas | Tools </h3>
     - GitHub </br>
     - VS Code </br>
