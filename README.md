@@ -1,12 +1,7 @@
 <h1 align="left">👋 Hi, I'm Maria Clara</h1>
-Sou cearense morando no Rio de Janeiro (RJ). Vejo a tecnologia não apenas como uma área de estudo, mas como o melhor caminho para solucionar problemas reais e facilitar o dia a dia das pessoas. Gosto de entender como as coisas funcionam por trás das telas e aplicar meu conhecimento de forma prática, buscando sempre criar projetos que sejam úteis e bem estruturados. </br>
+Sou cearense. Vejo a tecnologia não apenas como uma área de estudo, mas como o melhor caminho para solucionar problemas reais e facilitar o dia a dia das pessoas. Gosto de entender como as coisas funcionam por trás das telas e aplicar meu conhecimento de forma prática, buscando sempre criar projetos que sejam úteis e bem estruturados. </br>
 </br>
-<em> I'm originally from Fortaleza (CE, Brazil) and currently live in Rio de Janeiro (RJ, Brazil). I see technology as more than just a field of study; for me, it's the best way to solve real-world problems and make people's daily lives easier. I enjoy figuring out how things work behind the screen and applying my knowledge practically, always striving to build useful and well-structured projects. </em>
-
-
-<h2 align="left">🎓 Formação | Education </h2>
-- Graduação em Matemática da Tecnologia e Inovação com ênfase em Ciência da Computação — <a href="https://impatech.edu.br/">IMPA Tech</a> (2024-2028)</br>
-<em> Bachelor’s degree in Mathematics for Technology and Innovation with an emphasis in Computer Science — <a href="https://impatech.edu.br/?lang=en">IMPA Tech</a> (2024-2028) </em>
+<em> I'm from Fortaleza (CE, Brazil). I see technology as more than just a field of study; for me, it's the best way to solve real-world problems and make people's daily lives easier. I enjoy figuring out how things work behind the screen and applying my knowledge practically, always striving to build useful and well-structured projects. </em>
 
 <h2 align="left">💻 Interesses | Interests </h2>
 - Programação e Engenharia de Software </br>
